@@ -15,11 +15,25 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year **B.Tech CSE** student at **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.3**)
-💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Java, Angular, Spring Boot, REST APIs & Databases**
+💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**
 🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**
 📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends
 🌱 Currently deepening skills in **Spring Boot Microservices** and **System Design**
 📫 Reach me at: **koppisettinaveen1432@gmail.com**
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+### 👇 Click below to view or download my Resume
+
+[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/NaveenKoppisetti/NaveenKoppisetti/raw/main/Naveen_Koppisetti_Resume.pdf)
+&nbsp;&nbsp;
+[![View Resume](https://img.shields.io/badge/View%20Resume-Online-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenKoppisetti/NaveenKoppisetti/blob/main/Naveen_Koppisetti_Resume.pdf)
+
+</div>
 
 ---
 
@@ -57,6 +71,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -146,6 +162,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveenkoppisetti.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenKoppisetti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koppisettinaveen1432@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/NaveenKoppisetti/NaveenKoppisetti/raw/main/Naveen_Koppisetti_Resume.pdf)
 
 </div>
 
