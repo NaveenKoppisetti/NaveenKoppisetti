@@ -1,96 +1,133 @@
-## Hi there 👋
 <!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=NaveenKoppisetti&label=Profile%20Views&color=0e75b6&style=flat" alt="NaveenKoppisetti" />
+  <img src="https://komarev.com/ghpvc/?username=NaveenKoppisetti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen+Koppisetti;Full+Stack+Developer+%7C+AI+Explorer;Building+smart+apps+with+MERN+%26+LLMs;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78C40&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Koppisetti+Naveen;Java+Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+%26+Secure+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+---
 
-```java
-public class NaveenKoppisetti {
+## 👨‍💻 About Me
 
-    String college   = "Lakireddy Bali Reddy College of Engineering";
-    String degree    = "B.Tech CSE (2022–2026) | CGPA: 8.3";
-    String role      = "Full Stack Developer | AI/LLM Enthusiast";
-    String location  = "Andhra Pradesh, India 🇮🇳";
-
-    String[] currentlyLearning = { "Advanced RAG Pipelines", "LLM Fine-Tuning", "System Design" };
-    String   funFact            = "I build things that learn 🤖 and things that teach 📚";
-    String   contact            = "koppisettinaveen1432@gmail.com";
-}
-```
-
-- 🔭 Built **LearnHub** — a full-stack skill enhancement platform with JWT auth & role-based dashboards
-- 🤖 Developed a **RAG-based chatbot** using Python, LLaMA3 (Ollama), embeddings & cosine similarity
-- 🩸 Created a **Blood Bank Management System** with real-time blood request tracking
-- 🌐 Passionate about bridging **Full Stack Dev** and **AI/LLM** technologies
-- 💡 Always exploring: Prompt Engineering, Vector DBs, Retrieval-Augmented Generation
+🎓 Final-year **B.Tech CSE** student at **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.3**)
+💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**
+🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**
+📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends
+🌱 Currently deepening skills in **Spring Boot Microservices** and **System Design**
+📫 Reach me at: **koppisettinaveen1432@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### ☕ Core — Java Full Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| **Language** | Java (Core + OOP + Collections) |
+| **Frontend** | Angular, TypeScript, HTML5, CSS3, JavaScript |
+| **Backend** | Spring Boot, Spring MVC, REST APIs, Java Servlets |
+| **Database** | MySQL, MongoDB, SQL |
+| **Auth & Security** | JWT Authentication, Role-Based Access Control |
+| **API Testing** | Postman |
+| **Version Control** | Git, GitHub |
+| **IDE / Tools** | VS Code, IntelliJ IDEA |
+| **Cloud** | AWS (Basics) |
+
+### 📐 Data Structures & Algorithms
+![Arrays](https://img.shields.io/badge/Arrays-0078D7?style=flat-square)
+![Linked Lists](https://img.shields.io/badge/Linked%20Lists-0078D7?style=flat-square)
+![Stacks & Queues](https://img.shields.io/badge/Stacks%20%26%20Queues-0078D7?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees-0078D7?style=flat-square)
+![Sorting & Searching](https://img.shields.io/badge/Sorting%20%26%20Searching-0078D7?style=flat-square)
+
+### 🏷️ Tech Badges
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/RAG%20%7C%20Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🎓 [**LearnHub**](https://github.com/NaveenKoppisetti/LearnHub-Your-Center-for-Skill-Enhancement) | React, Node.js, MongoDB, JWT | Full-stack skill platform with role-based dashboards & REST APIs |
-| 🤖 **RAG Chatbot** | Python, Ollama, LLaMA3, Embeddings | Document Q&A chatbot with cosine similarity retrieval |
-| 🩸 [**Blood Bank System**](https://github.com/NaveenKoppisetti/BloodBankManagement) | Java Servlets, MySQL | Real-time donor & blood inventory management |
-| 🌐 [**Portfolio**](https://naveenkoppisetti.github.io/portfolio/) | MERN Stack | Responsive portfolio showcasing projects & skills |
+### 🎓 LearnHub — Skill Enhancement Platform
+> **Stack:** React · Node.js · MongoDB · JWT · REST APIs
+
+- Built a full-stack web platform with **role-based dashboards** for students and admins
+- Implemented **JWT authentication** and secured REST APIs for user management
+- Designed a scalable backend architecture with clean separation of concerns
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/LearnHub-Your-Center-for-Skill-Enhancement)
+
+---
+
+### 🩸 Blood Bank Management System
+> **Stack:** Java Servlets · MySQL · HTML · CSS
+
+- Developed a **donor and blood inventory management system** from scratch
+- Enabled **real-time tracking** of blood requests, availability, and donor records
+- Applied core Java backend principles with direct JDBC database integration
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagement)
+
+---
+
+### 🌐 Developer Portfolio
+> **Stack:** MERN Stack · Responsive Design
+
+- Designed and deployed a **responsive personal portfolio** showcasing projects and skills
+- Built with modern UI principles and deployed via GitHub Pages
+- 🔗 [Live Portfolio](https://naveenkoppisetti.github.io/portfolio/)
+
+---
+
+## 🧠 Knowledge Areas
+
+| Domain | Status |
+|--------|--------|
+| Java Full Stack (Angular + Spring Boot) | ✅ Hands-on |
+| REST API Design & JWT Auth | ✅ Hands-on |
+| Data Structures & Algorithms (Java) | ✅ Hands-on |
+| MERN Stack | ✅ Hands-on |
+| SQL & NoSQL Databases | ✅ Hands-on |
+| AI / LLM Concepts (RAG, Embeddings, Prompt Engineering) | 📖 Conceptual Knowledge |
+| AWS Cloud | 📖 Basics |
+
+---
+
+## 🏅 Certifications & Internships
+
+- 🏆 **SmartBridge Educational Services** — Full Stack Development (MERN)
+- 🏆 **Eduskills** — Java Full Stack Developer *(Virtual Internship)*
+- 🏆 **Bitzron Softech** — Intern, MERN Stack Developer *(Summer Training)*
+- 🏆 **HackerRank** — Java · Angular · SQL · JavaScript · Problem Solving · Software Engineer Intern
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenKoppisetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKoppisetti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenKoppisetti&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKoppisetti&layout=compact&theme=radical&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenKoppisetti&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenKoppisetti&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -103,34 +140,20 @@ public class NaveenKoppisetti {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NaveenKoppisetti/NaveenKoppisetti/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🎓 Certifications
-
-- 🏅 **SmartBridge** — Full Stack Development (MERN)
-- 🏅 **Eduskills** — Java Full Stack Developer (Virtual Internship)
-- 🏅 **Bitzron Softech** — Intern, MERN Stack Developer
-- 🏅 **HackerRank** — Java, Angular, SQL, JavaScript, Problem Solving, Software Engineer Intern
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koppisetti-naveen/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenKoppisetti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveenkoppisetti.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenKoppisetti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koppisettinaveen1432@gmail.com)
 
 </div>
 
+<br/>
+
 <div align="center">
-  <i>⚡ "Code is not just syntax — it's a solution waiting to happen." ⚡</i>
+  <i>💼 Open to Full-Time Roles & Internships in Java Full Stack Development</i><br/>
+  <i>📍 Andhra Pradesh, India &nbsp;|&nbsp; 🎓 Graduating May 2026</i>
 </div>
