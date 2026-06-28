@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year **B.Tech CSE** student at **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.3**)
+🎓 2026 **Computer Science Engineering** Graduate from **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.5**)
 💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**
 🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**
 📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends
@@ -81,23 +81,14 @@
 
 ## 🚀 Projects
 
-### 🎓 LearnHub — Skill Enhancement Platform
-> **Stack:** React · Node.js · MongoDB · JWT · REST APIs
-
-- Built a full-stack web platform with **role-based dashboards** for students and admins
-- Implemented **JWT authentication** and secured REST APIs for user management
-- Designed a scalable backend architecture with clean separation of concerns
-- 🔗 [View Repository](https://github.com/NaveenKoppisetti/LearnHub-Your-Center-for-Skill-Enhancement)
-
----
-
 ### 🩸 Blood Bank Management System
 > **Stack:** Java Servlets · MySQL · HTML · CSS
 
 - Developed a **donor and blood inventory management system** from scratch
 - Enabled **real-time tracking** of blood requests, availability, and donor records
 - Applied core Java backend principles with direct JDBC database integration
-- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagement)
+- 🔗 [Live Portfolio](https://bloodbankmanagementsystem-sszt.onrender.com/)
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagementSystemt)
 
 ---
 
@@ -110,13 +101,23 @@
 
 ---
 
+### 🎓 LearnHub — Skill Enhancement Platform
+> **Stack:** React · Node.js · MongoDB · JWT · REST APIs
+
+- Built a full-stack web platform with **role-based dashboards** for students and admins
+- Implemented **JWT authentication** and secured REST APIs for user management
+- Designed a scalable backend architecture with clean separation of concerns
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/LearnHub-Your-Center-for-Skill-Enhancement)
+
+---
+
 ## 🧠 Knowledge Areas
 
 | Domain | Status |
 |--------|--------|
+| Data Structures & Algorithms (Java) | ✅ Hands-on |
 | Java Full Stack (Angular + Spring Boot) | ✅ Hands-on |
 | REST API Design & JWT Auth | ✅ Hands-on |
-| Data Structures & Algorithms (Java) | ✅ Hands-on |
 | MERN Stack | ✅ Hands-on |
 | SQL & NoSQL Databases | ✅ Hands-on |
 | AI / LLM Concepts (RAG, Embeddings, Prompt Engineering) | 📖 Conceptual Knowledge |
