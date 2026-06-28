@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 2026 **Computer Science Engineering** Graduate from **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.5**)
-💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**
-🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**
-📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends
-🌱 Currently deepening skills in **Spring Boot Microservices** and **System Design**
-📫 Reach me at: **koppisettinaveen1432@gmail.com**
+🎓 2026 **Computer Science Engineering** Graduate from **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.5**)<br/>
+💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**<br/>
+🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**<br/>
+📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends<br/>
+🌱 Currently deepening skills in **Spring Boot Microservices** and **System Design**<br/>
+📫 Reach me at: **koppisettinaveen1432@gmail.com**<br/>
 
 ---
 
