@@ -88,7 +88,7 @@
 - Enabled **real-time tracking** of blood requests, availability, and donor records
 - Applied core Java backend principles with direct JDBC database integration
 - 🔗 [Live Portfolio](https://bloodbankmanagementsystem-sszt.onrender.com/)
-- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagementSystemt)
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagementSystem.git)
 
 ---
 
