@@ -92,6 +92,17 @@
 
 ---
 
+### 🎓 Student Management System
+> **Stack:** Java Servlets · JSP · JDBC · MySQL · Bootstrap 5 · Apache Tomcat 11
+
+- Built a secure, responsive student management platform following the **MVC architecture**
+- Implemented **SHA-256 password hashing**, session/cookie management, and an authentication filter
+- Added full **CRUD operations** for student profiles, duplicate email validation, and custom 404/500 error pages
+- 🔗 [Live Demo](https://studentmanagementsystem-gws5.onrender.com)
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/StudentManagementSystem)
+
+---
+
 ### 🌐 Developer Portfolio
 > **Stack:** MERN Stack · Responsive Design
 
