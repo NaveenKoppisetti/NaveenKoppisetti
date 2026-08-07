@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 🎓 2026 **Computer Science Engineering** Graduate from **Lakireddy Bali Reddy College of Engineering** (CGPA: **8.5**)<br/>
-💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Angular, Spring Boot, REST APIs & Databases**<br/>
+💼 Aspiring **Java Full Stack Developer** with hands-on experience in **Java, Angular, Spring Boot, REST APIs & Databases**<br/>
 🔐 Strong foundation in **JWT Authentication**, **Role-Based Access Control**, and **Secure API Design**<br/>
 📦 Comfortable working across the full stack — from responsive Angular UIs to robust Java backends<br/>
 🌱 Currently deepening skills in **Spring Boot Microservices** and **System Design**<br/>
@@ -43,7 +43,7 @@
 
 | Layer | Technologies |
 |-------|-------------|
-| **Language** | Java (Core + OOP + Collections) |
+| **Language** | Java (Core + OOP + Collections + JDBC) |
 | **Frontend** | Angular, TypeScript, HTML5, CSS3, JavaScript |
 | **Backend** | Spring Boot, Spring MVC, REST APIs, Java Servlets |
 | **Database** | MySQL, MongoDB, SQL |
@@ -71,8 +71,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -80,17 +78,6 @@
 ---
 
 ## 🚀 Projects
-
-### 🩸 Blood Bank Management System
-> **Stack:** Java Servlets · MySQL · HTML · CSS
-
-- Developed a **donor and blood inventory management system** from scratch
-- Enabled **real-time tracking** of blood requests, availability, and donor records
-- Applied core Java backend principles with direct JDBC database integration
-- 🔗 [Live Portfolio](https://bloodbankmanagementsystem-sszt.onrender.com/)
-- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagementSystem.git)
-
----
 
 ### 🎓 Student Management System
 > **Stack:** Java Servlets · JSP · JDBC · MySQL · Bootstrap 5 · Apache Tomcat 11
@@ -100,6 +87,17 @@
 - Added full **CRUD operations** for student profiles, duplicate email validation, and custom 404/500 error pages
 - 🔗 [Live Demo](https://studentmanagementsystem-gws5.onrender.com)
 - 🔗 [View Repository](https://github.com/NaveenKoppisetti/StudentManagementSystem)
+
+---
+
+### 🩸 Blood Bank Management System
+> **Stack:** Java Servlets · MySQL · HTML · CSS
+
+- Developed a **donor and blood inventory management system** from scratch
+- Enabled **real-time tracking** of blood requests, availability, and donor records
+- Applied core Java backend principles with direct JDBC database integration
+- 🔗 [Live Demo](https://bloodbankmanagementsystem-sszt.onrender.com/)
+- 🔗 [View Repository](https://github.com/NaveenKoppisetti/BloodBankManagementSystem.git)
 
 ---
 
@@ -131,8 +129,8 @@
 | REST API Design & JWT Auth | ✅ Hands-on |
 | MERN Stack | ✅ Hands-on |
 | SQL & NoSQL Databases | ✅ Hands-on |
-| AI / LLM Concepts (RAG, Embeddings, Prompt Engineering) | 📖 Conceptual Knowledge |
 | AWS Cloud | 📖 Basics |
+| AI / LLM Concepts (RAG, Embeddings, Prompt Engineering) | 📖 Conceptual Knowledge |
 
 ---
 
